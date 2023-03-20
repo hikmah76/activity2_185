@@ -10,3 +10,4 @@ float LuasLingkaran(float r) {
 float luasSegitiga(float a, float t) {
 	return 0.5 * a * t;
 }
+
